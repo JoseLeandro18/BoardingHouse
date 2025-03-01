@@ -41,7 +41,7 @@
         <mxCell id="QDaPkUm8YatfWbO2A28U-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ÁREA DE DENUNCIA&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QDaPkUm8YatfWbO2A28U-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="QDaPkUm8YatfWbO2A28U-17">
+        <mxCell id="QDaPkUm8YatfWbO2A28U-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.438;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QDaPkUm8YatfWbO2A28U-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="530" as="sourcePoint" />
             <mxPoint x="500" y="560" as="targetPoint" />
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QDaPkUm8YatfWbO2A28U-17" value="&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;NOME:&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;EMAIL:&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;SENHA:&lt;br&gt;&lt;br&gt;DENUNCIA:&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="410" y="610" width="180" height="180" as="geometry" />
+          <mxGeometry x="395" y="640" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="QDaPkUm8YatfWbO2A28U-21" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;SE ENTRAR&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="110" width="120" height="60" as="geometry" />
